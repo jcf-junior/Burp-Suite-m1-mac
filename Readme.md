@@ -27,7 +27,7 @@
 	--> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
 
 -----------------------------------------------------------------------------------------------------------------
-# Updating Burp Suite Professional
+# Updating Burp Suite Professional -- Only Support upto 2022.8.5
 	--> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar file. 
 
 -----------------------------------------------------------------------------------------------------------------
